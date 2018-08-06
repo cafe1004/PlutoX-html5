@@ -27,13 +27,17 @@ Parallax Scrolling
 >HTML5 & CSS3  
 Bootstrap 4.0.0 beta3
 normalize.css
+fontawesome
 
 ## Current Version
-### v1.0.0
-##### What is new in v1.0.0  
-1st Launching
+### v1.1.0
+##### What is new in v1.1.0  
+Adding Section 6
+Apply fontawesome
 
 ## History
+> #### Version 1.0.0
+  * 1st Launching
 > #### Version 0.2.5
 Fix Image width bug
 > #### Version 0.2.4
